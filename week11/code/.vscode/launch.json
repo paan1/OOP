@@ -1,0 +1,75 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LoanCalculator",
+            "request": "launch",
+            "mainClass": "application.LoanCalculator",
+            "projectName": "code_b086a3a9",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "code_b086a3a9",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18 --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "projectName": "code_3b88de1e",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18 --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18 --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18 --add-modules javafx.controls,javafx.fxml,javafx.web"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "hellofx.Main",
+            "projectName": "code_3b88de1e",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml,javafx.web"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Pro7_64010476",
+            "request": "launch",
+            "mainClass": "Pro7_64010476",
+            "projectName": "week09.2_dd324599"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro6_64010476",
+            "request": "launch",
+            "mainClass": "Pro6_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro5_64010476",
+            "request": "launch",
+            "mainClass": "Pro5_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro4_64010476",
+            "request": "launch",
+            "mainClass": "Pro4_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro3_64010476",
+            "request": "launch",
+            "mainClass": "Pro3_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro2_64010476",
+            "request": "launch",
+            "mainClass": "Pro2_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pro1_64010476",
+            "request": "launch",
+            "mainClass": "Pro1_64010476",
+            "projectName": "week09.2_dd324599",
+            "vmArgs": "--module-path C:/Users/patip/OneDrive/Desktop/javafx-sdk-18/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
